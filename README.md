@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**sandip2001-max/sandip2001-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sports Club Website
 
-Here are some ideas to get you started:
+A simple and responsive sports club website front-end developed using HTML, CSS, and JavaScript. The website provides an attractive interface for visitors to explore the club and its activities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## How to Run
+
+1. Clone or download this repository.
+2. Open the project folder.
+3. Open `index.html` in your web browser.
+
+## Purpose
+
+This project demonstrates front-end web development skills, including webpage structure, styling, and interactive features.
